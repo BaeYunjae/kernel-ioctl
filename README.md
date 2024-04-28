@@ -1,4 +1,4 @@
-# kernel-programming
+# kernel-programming-ioctl
 
 1. ioctl 통신 확인을 위해 터미널 창 2개 켜기
 

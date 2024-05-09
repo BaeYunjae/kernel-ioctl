@@ -7,7 +7,7 @@
 
 ```sudo insmod ssafy.ko``` : 커널 내부에 커널 모듈 형식의 디바이스 드라이버 삽입
 <br>
-```sudo mknod /dev/ssafyFile c 100 0``` : user 프로그램이 디바이스 드라이버에 접근하기 위한 디바이스 파일 생성
+```sudo mknod /dev/ssafyFile c 100 0``` : user 프로그램이 디바이스 드라이버로 접근하기 위한 디바이스 파일 생성
 <br>
 ```sudo chmod 666 /dev/ssafyFile``` : 디바이스 파일에 권한 부여
 <br>
